@@ -41,10 +41,3 @@ A Food App UI done with React Native.
   <img src="https://user-images.githubusercontent.com/62084317/226844153-cbc45a3c-6a60-4a78-b5b2-36811cec0d9c.jpg" width="300">
 </kbd>
 <br><br><br>
-
-<kbd><img src="https://user-images.githubusercontent.com/62084317/226844116-074b707e-d0ff-44ab-b955-c85dd83d6b43.jpg" width="300"></kbd>
-<br><br><br>
-<kbd><img src="https://user-images.githubusercontent.com/62084317/226844135-bacbc30b-2bd8-4d37-877e-d85356372103.jpg" width="300"></kbd>
-<br><br><br>
-<kbd><img src="https://user-images.githubusercontent.com/62084317/226844153-cbc45a3c-6a60-4a78-b5b2-36811cec0d9c.jpg" width="300"></kbd>
-<br><br><br>
