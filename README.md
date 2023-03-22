@@ -16,6 +16,7 @@ A simple landscape name badge done with React Native.
 https://snack.expo.dev/@wanqian/responsive_noughts_and_crosses_ui
 
 A Tic-Tac-Toe UI done with React Native.
+
 <kbd><img src="https://user-images.githubusercontent.com/62084317/226844030-a4794ab0-5909-4048-9292-1e9a5ee43575.jpg" width="300"></kbd>
 <br><br><br>
 
@@ -33,6 +34,13 @@ A calculator, with basic logic implemented, done with React Native.
 https://snack.expo.dev/@wanqian/foodapp
 
 A Food App UI done with React Native.
+
+<kbd>
+  <img src="https://user-images.githubusercontent.com/62084317/226844116-074b707e-d0ff-44ab-b955-c85dd83d6b43.jpg" width="300">
+  <img src="https://user-images.githubusercontent.com/62084317/226844135-bacbc30b-2bd8-4d37-877e-d85356372103.jpg" width="300">
+  <img src="https://user-images.githubusercontent.com/62084317/226844153-cbc45a3c-6a60-4a78-b5b2-36811cec0d9c.jpg" width="300">
+</kbd>
+<br><br><br>
 
 <kbd><img src="https://user-images.githubusercontent.com/62084317/226844116-074b707e-d0ff-44ab-b955-c85dd83d6b43.jpg" width="300"></kbd>
 <br><br><br>
