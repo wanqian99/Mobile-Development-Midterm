@@ -8,7 +8,7 @@ https://snack.expo.dev/@wanqian/namebadge
 
 A simple landscape name badge done with React Native.
 
-<kbd><img src="https://user-images.githubusercontent.com/62084317/226843978-b99eb74b-0959-49cc-a39d-816e8eaefdbc.jpg" width="800"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/62084317/226843978-b99eb74b-0959-49cc-a39d-816e8eaefdbc.jpg" width="600"></kbd>
 <br><br><br>
 
 
